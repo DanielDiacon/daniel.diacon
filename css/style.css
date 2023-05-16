@@ -1052,7 +1052,7 @@ body.darkmode .menu__dark-icon-two {
   height: 100%;
   width: 100%;
   position: relative;
-  aspect-ratio: 4/5;
+  aspect-ratio: 1/1;
 }
 
 .first__img img {
@@ -1675,10 +1675,6 @@ body::after {
 
   .first__description {
     padding: 0px;
-  }
-
-  .first__img {
-    aspect-ratio: 1/1;
   }
 
   .first__img img {
